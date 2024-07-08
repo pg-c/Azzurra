@@ -11,7 +11,6 @@ uniform sampler2D Sampler2;
 
 uniform mat4 ModelViewMat;
 uniform mat4 ProjMat;
-uniform mat3 IViewRotMat;
 uniform int FogShape;
 uniform vec2 ScreenSize;
 
@@ -26,7 +25,7 @@ bool isAt(int offset, int vID, int pos) {
 void main() {
 	vec3 pos = Position;
 
-    vertexDistance = fog_distance(ModelViewMat, IViewRotMat * Position, FogShape);
+    vertexDistance = fog_distance(Position, FogShape);
     vertexColor = Color;
     texCoord0 = UV0;
 	

@@ -314,16 +314,7 @@
                 }
             ]
         },
-        {
-            "name": "fxaa",
-            "intarget": "swap3",
-            "outtarget": "swap2",
-            "uniforms": [
-                { "name": "SpanMax",       "type": "float",     "count": 1,  "values": [ 8.0 ] },
-                { "name": "SubPixelShift", "type": "float",     "count": 1,  "values": [ 0.25 ] },
-                { "name": "ReduceMul",     "type": "float",     "count": 1,  "values": [ 0.2 ] }
-            ]
-        },
+        {"name": "blit", "intarget": "swap3", "outtarget": "swap2"},
         {
             "name": "exposure_apply",
             "intarget": "swap2",
@@ -347,20 +338,6 @@
             "intarget": "swap2",
             "outtarget": "minecraft:main"
         },
-        {
-            "name": "blur",
-            "intarget": "minecraft:main",
-            "outtarget": "swap1",
-            "uniforms": [
-                {
-                    "name": "BlurDir",
-                    "values": [ 1.0, 0.0 ]
-                },
-                {
-                    "name": "Radius",
-                    "values": [ 7.0 ]
-                }
-            ]
-        }
+        {"name": "copy", "intarget": "swap2", "outtarget": "minecraft:main"}
     ]
 }

@@ -51,7 +51,7 @@
             ]
         },
         {
-            "name": "blur",
+            "name": "box_blur",
             "intarget": "swap3",
             "outtarget": "swap4",
             "uniforms": [
@@ -66,7 +66,7 @@
             ]
         },
         {
-            "name": "blur",
+            "name": "box_blur",
             "intarget": "swap4",
             "outtarget": "swap5",
             "uniforms": [
@@ -81,7 +81,7 @@
             ]
         },
         {
-            "name": "blur",
+            "name": "box_blur",
             "intarget": "swap5",
             "outtarget": "swap6",
             "uniforms": [
@@ -96,7 +96,7 @@
             ]
         },
         {
-            "name": "blur",
+            "name": "box_blur",
             "intarget": "swap6",
             "outtarget": "swap7",
             "uniforms": [
