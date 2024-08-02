@@ -1,1 +1,0 @@
-packsquash Azzurra/Azzurra.toml

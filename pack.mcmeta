@@ -5,15 +5,6 @@
             "min_inclusive": 3,
             "max_inclusive": 34
         },
-        "description": "§1Azzurra §6HQ Pack§r                 §8§o© Vittoria 2023§r"
-    },
-    "sodium": {
-        "ignored_shaders": [
-            "rendertype_solid.vsh",
-            "rendertype_translucent.vsh",
-            "rendertype_cutout_mipped.vsh",
-            "fog.glsl",
-            "light.glsl"
-        ]
+        "description": "§1Azzurra §6HQ Pack§r               §8§o(c) Vittoria 2023§r"
     }
 }
