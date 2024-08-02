@@ -23,19 +23,25 @@ The Azzurra adds vanilla-friendly features, vanilla shaders, building tweaks and
 
 
 ![Add-ons](https://i.imgur.com/CXrL4To.png)
+## RCP
+- Adds greater efficiency and compatibility with versions from 1.19.2 to 1.11 and allows Azzurra to work well in these versions. To be used only if you use these versions!
 
-## [8-bit]()
-### WIP FOR MC VERSIONS 1.20.5+
+
+## 8-bit
 - Uses 8-bit color with half the resolution, with a dithering effect.
 This is a reference to how many of Notch's other games use a similar overlay. To use it you need to activate Fabula graphics
 
 ![8-bit](https://cdn.modrinth.com/data/OHgmhjd3/images/16ab6ba28a3c2fac1d4040d9d5ce1e74d934d153.png)
 
-## [CRT](https://drive.google.com/file/d/1iuLVzctK1406CYJziw57ZZ3vApgsHion/view?usp=sharing)
-### WIP FOR MC VERSIONS 1.20.5+
+## CRT
 - It gives the perception of playing on a cathode ray tube television, it is highly recommended to use it when you want to have a different vision of the world. To use it you need to activate Fabula graphics
 
 ![CRT](https://cdn-raw.modrinth.com/data/OHgmhjd3/images/401ae539197237caac13a922dd6ede2d8ce62703.png)
+
+## Lazur
+- Illuminate your Minecraft world with the Lazur resource pack! This pack offers a lighter and more minimalistic gaming experience by replacing the traditional Azzurra UI with sleeker versions.
+
+![Lazur](https://cdn.modrinth.com/data/OHgmhjd3/images/52cacfedebff04e03fbe1cd7e29d6e7976a64483.png)
 
 # All Add-ons are present in the pack zip and are dependent on it, they cannot be played without it. To use the Add-ons you must place them on top of the main pack.
 
