@@ -1,0 +1,1 @@
+packsquash.exe "^CRT Add-on/CRT.toml"

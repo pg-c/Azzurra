@@ -1,0 +1,1 @@
+packsquash.exe "^RCP Add-on/RCP.toml"
