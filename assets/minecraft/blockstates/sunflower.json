@@ -1,0 +1,112 @@
+{
+  "variants": {
+    "half=lower": [
+      {
+        "model": "minecraft:block/sunflower_bottom",
+        "y": 0
+      },
+      {
+        "model": "minecraft:block/sunflower_bottom",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sunflower_bottom",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sunflower_bottom",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sunflower_bottom",
+        "y": 0
+      },
+      {
+        "model": "minecraft:block/sunflower_bottom",
+        "y": 0
+      },
+      {
+        "model": "minecraft:block/sunflower_bottom",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sunflower_bottom",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sunflower_bottom",
+        "y": 270
+      },
+      {
+        "model": "minecraft:block/sunflower_bottom",
+        "y": 0
+      },
+      {
+        "model": "minecraft:block/sunflower_bottom",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sunflower_bottom",
+        "y": 0
+      }
+    ],
+    "half=upper": [
+      {
+        "model": "azzurra:block/variants/sunflower_top",
+        "y": 0,
+        "weight": 68
+      },
+      {
+        "model": "azzurra:block/variants/sunflower_top",
+        "y": 90,
+        "weight": 50
+      },
+      {
+        "model": "azzurra:block/variants/sunflower_top",
+        "y": 180,
+        "weight": 60
+      },
+      {
+        "model": "azzurra:block/variants/sunflower_top",
+        "y": 270,
+        "weight": 50
+      },
+      {
+        "model": "azzurra:block/variants/sunflower_top1",
+        "y": 0,
+        "weight": 11
+      },
+      {
+        "model": "minecraft:block/sunflower_top",
+        "y": 0,
+        "weight": 34
+      },
+      {
+        "model": "minecraft:block/sunflower_top",
+        "y": 90,
+        "weight": 23
+      },
+      {
+        "model": "minecraft:block/sunflower_top",
+        "y": 180,
+        "weight": 38
+      },
+      {
+        "model": "minecraft:block/sunflower_top",
+        "y": 270,
+        "weight": 42
+      },
+      {
+        "model": "azzurra:block/variants/sunflower_top2",
+        "y": 180,
+        "weight": 14
+      },
+      {
+        "model": "azzurra:block/variants/sunflower_top3",
+        "y": 0,
+        "weight": 1
+      }
+    ]
+    }
+  }
+}

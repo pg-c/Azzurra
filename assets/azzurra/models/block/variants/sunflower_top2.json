@@ -1,0 +1,88 @@
+{
+	"credit": "(c) Vittoria 2024",
+	"ambientocclusion": false,
+	"textures": {
+		"3": "azzurra:block/sunflower_top2",
+		"cross": "azzurra:block/sunflower_top",
+		"back": "azzurra:block/sunflower_back",
+		"particle": "azzurra:block/sunflower_front",
+		"front": "azzurra:block/sunflower_front",
+		"front2": "azzurra:block/sunflower_front2"
+	},
+	"elements": [
+		{
+			"from": [14.60242, 1.80179, 7.46278],
+			"to": [14.60242, 11.80179, 17.46278],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [14.59155, 8.55459, 11.96278], "rescale": true},
+			"faces": {
+				"east": {"uv": [16, 16, 0, 0], "rotation": 270, "texture": "#front2"},
+				"west": {"uv": [16, 16, 0, 0], "rotation": 90, "texture": "#back"}
+			}
+		},
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 17, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 17, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#cross"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [7.8, 12.4, 1],
+			"to": [7.8, 25.4, 15],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [6.2, 21.4, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#front"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#back"}
+			}
+		},
+		{
+			"from": [0.8, 10, 8],
+			"to": [15.2, 19.2, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 18, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 8, 16, 16], "texture": "#cross"},
+				"south": {"uv": [0, 8, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [8, 10, 0.8],
+			"to": [8, 19.2, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 18, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 8, 16, 16], "texture": "#cross"},
+				"west": {"uv": [16, 8, 0, 16], "texture": "#cross"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "bottom1",
+			"origin": [8, 16, 8],
+			"color": 0,
+			"children": [0, 1, 2]
+		},
+		{
+			"name": "top",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [3, 4, 5]
+		}
+	]
+}
