@@ -88,7 +88,6 @@ This is a reference to how many of Notch's other games use a similar overlay. To
 ### Ray_savage for the [Optifine Sky](https://www.planetminecraft.com/texture-pack/milkyway-galaxy-night-sky/ 'Milkyway Galaxy Night Sky')
 ### DartCat25 for a part of [menu code](https://www.planetminecraft.com/texture-pack/menus-enchanted/ 'Menus - Enchanted') (modified)
 ### Bálint for the [font shader](https://github.com/BalintCsala/Minificent 'Minificent') (modified)
-### Godlander for [leaves shader](https://github.com/Godlander/vpp 'Vanilla ++')
 ### McTsts for [remove text shadow](https://github.com/McTsts/mc-core-shaders/tree/main/remove%20text%20shadow 'Remove Text Shadow')
 ### McTsts for [wavy water](https://github.com/McTsts/mc-core-shaders/tree/main/wavy%20water 'Wavy Water')
 ### bradleyq for [Vanilla Fabulous shaders](https://github.com/bradleyq/mc_vanilla_shaders 'Vanilla Fabulous Shaders') (modified)
